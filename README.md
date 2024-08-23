@@ -14,3 +14,7 @@ chmod +x dump_*
   - dump_redis.sh
   - dump_time.sh
   - namespaces.txt
+  - restore_mongo.sh
+  - restore_pg.sh
+  - restore_redis.sh
+  - restore_time.sh
