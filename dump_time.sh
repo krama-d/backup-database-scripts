@@ -1,7 +1,4 @@
 #!/bin/bash
-###
-###  to restore your data use pg_restore -U postgres -d target_database -v /path/to/your/dump/file.dump
-###
 
 set -e
 
