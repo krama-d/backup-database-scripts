@@ -1,6 +1,6 @@
 ## Before you begin:
 - choose your kubeconfig and import it
-- create namespaces.txt file
+- create namespaces.txt file and add your desired namespaces
 - make sh executable via command bellow
 ```bash 
 chmod +x dump_* 
